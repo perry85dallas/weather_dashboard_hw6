@@ -1,5 +1,12 @@
 * {
-  box-sizing: border-box !important;
+  box-sizing: border-box;
 }
 
+.search-column{
+  background-color:	whitesmoke;
+}
 
+.list-group{
+  line-height: 1;
+  border: none;
+}
